@@ -1,6 +1,6 @@
 # Ramazan Nuhbalayev
 
-**Data Scientist/Analyst | Machine Learning Enthusiast**
+**Data Scientist | Machine Learning Engineer**
 
 [LinkedIn](https://www.linkedin.com/in/ramazan-nuhbalayev) | [GitHub](https://github.com/RamazanNuhbalayev)
 
