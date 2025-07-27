@@ -2,7 +2,7 @@
 
 **Data Scientist/Analyst | Machine Learning Enthusiast**
 
-[LinkedIn](https;//www.linkedin.com/in/ramazan-nuhbalayev) | [GitHub](https://github.com/RamazanNuhbalayev)
+[LinkedIn](https://www.linkedin.com/in/ramazan-nuhbalayev) | [GitHub](https://github.com/RamazanNuhbalayev)
 
 ---
 
